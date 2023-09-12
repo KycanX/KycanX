@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KycanX
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in Cyber Security
 
 
 <!---
